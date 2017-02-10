@@ -1,0 +1,26 @@
+{
+  "name": "dw-example-package",
+  "version": "1.0.3",
+  "description": "",
+  "main": "./dist/index.js",
+  "typings": "./dist/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developersworkspace/dw-example-package.git"
+  },
+  "author": "Barend Erasmus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developersworkspace/dw-example-package/issues"
+  },
+  "homepage": "https://github.com/developersworkspace/dw-example-package#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-typescript": "^3.1.4",
+    "typescript": "^2.1.6"
+  }
+}
